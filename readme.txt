@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Force Calculator](https://www.calculator.io/force-calculator/ "Force Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_force_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Force Calculator to the sidebar through the `Appearance -> Widgets -> Force Calculator` menu in WordPress.
+* Add the shortcode `[ci_force_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_force_calculator(); ?>` to your template where you would like the Force Calculator to appear.
 
 == Screenshots ==
