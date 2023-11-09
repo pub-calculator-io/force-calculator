@@ -13,6 +13,8 @@ Easy to use force calculator helps determine the unknown variable in the force e
 
 Easy to use force calculator helps determine the unknown variable in the force equation (F = ma). Force = mass × acceleration.
 
+[Force Calculator Homepage](https://www.calculator.io/force-calculator/ "Force Calculator Homepage")
+
 __Shortcode__
 
 Use the Force Calculator shortcode:
