@@ -13,34 +13,35 @@ Easy to use force calculator helps determine the unknown variable in the force e
 
 Easy to use force calculator helps determine the unknown variable in the force equation (F = ma). Force = mass × acceleration.
 
-[Force Calculator Homepage](https://www.calculator.io/force-calculator/ "Force Calculator Homepage")
+[https://www.calculator.io/force-calculator/](https://www.calculator.io/force-calculator/)
 
-__Shortcode__
-
-Use the Force Calculator shortcode:
+__Force Calculator Shortcode__
 
 `[ci_force_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_force_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Force Calculator](https://www.calculator.io/force-calculator/ "Force Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Force Calculator Usage ==
+
 * Add the shortcode `[ci_force_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_force_calculator(); ?>` to your template where you would like the Force Calculator to appear.
 
 == Screenshots ==
+
 1. The Force Calculator Input Form.
 2. The Force Calculator Calculation Results.
+
+== Libraries used in Force Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
