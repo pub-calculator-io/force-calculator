@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Easy to use force calculator helps determine the unknown variable in the force equation (F = ma). Force = mass × acceleration.
 
-== Description ==
-
-Easy to use force calculator helps determine the unknown variable in the force equation (F = ma). Force = mass × acceleration.
-
 [https://www.calculator.io/force-calculator/](https://www.calculator.io/force-calculator/)
 
-__Force Calculator Shortcode__
+== Usage ==
+
+Add the Force Calculator shortcode to your page, post or sidebar:
 
 `[ci_force_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Force Calculator to appear:
 
-1. Upload the /ci_force_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Force Calculator](https://www.calculator.io/force-calculator/ "Force Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Force Calculator Usage ==
-
-* Add the shortcode `[ci_force_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_force_calculator(); ?>` to your template where you would like the Force Calculator to appear.
+`<?php display_ci_force_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Force Calculator Input Form.
 2. The Force Calculator Calculation Results.
 
-== Libraries used in Force Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Force Calculator /ci_force_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Force Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Force Calculator
