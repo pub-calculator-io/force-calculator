@@ -1,6 +1,6 @@
 === Force Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: force calculator, physics calculator, calculate force, Newton&#x27;s second law, gravitational force, spring force, frictional force, tension force, centripetal force, electrical force
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
