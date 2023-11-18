@@ -1,4 +1,4 @@
-=== Force Calculator by Calculator.iO ===
+=== Force Calculator ===
 Contributors: calculatorio
 Tags: force calculator, physics calculator, calculate force, Newton&#x27;s second law, gravitational force, spring force, frictional force, tension force, centripetal force, electrical force
 Requires at least: 5.0
