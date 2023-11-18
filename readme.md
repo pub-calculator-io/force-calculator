@@ -1,4 +1,4 @@
-# Force Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Force Calculator Widget for WordPress
 
 Easy to use force calculator helps determine the unknown variable in the force equation (F = ma). Force = mass × acceleration.
 
