@@ -7,7 +7,7 @@ Easy to use force calculator helps determine the unknown variable in the force e
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/force-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /force-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Force Calculator](https://www.calculator.io/force-calculator/ "Force Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
