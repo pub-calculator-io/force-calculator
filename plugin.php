@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Force Calculator by www.calculator.io
+Plugin Name: CI Force calculator
 Plugin URI: https://www.calculator.io/force-calculator/
 Description: Easy to use force calculator helps determine the unknown variable in the force equation (F = ma). Force = mass × acceleration.
 Version: 1.0.0
