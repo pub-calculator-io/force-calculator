@@ -3,7 +3,6 @@
 Easy to use force calculator helps determine the unknown variable in the force equation (F = ma). Force = mass × acceleration.
 
 ![Force Calculator Input Form](/assets/images/screenshot-1.png "Force Calculator Input Form")
-![Force Calculator Calculation Results](/assets/images/screenshot-2.png "Force Calculator Calculation Results")
 
 ## Installation
 

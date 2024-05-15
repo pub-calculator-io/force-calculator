@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Force Calculato
 == Screenshots ==
 
 1. The Force Calculator Input Form.
-2. The Force Calculator Calculation Results.
 
 == Installation ==
 
